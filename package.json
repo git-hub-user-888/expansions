@@ -1,0 +1,10 @@
+{
+  "name": "expansions",
+  "private": true,
+  "type": "module",
+  "description": "iPad web app for practising algebraic expansion",
+  "scripts": {
+    "test": "TZ=Europe/London node --test",
+    "serve": "python3 -m http.server 8123"
+  }
+}
